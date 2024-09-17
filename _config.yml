@@ -1,6 +1,6 @@
 title: Stanford Women in Math Mentoring
 logo: /assets/img/logo.jpg
-description: SWIMM.
-show_downloads: true
+description: 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
