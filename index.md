@@ -2,121 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# What is SWIMM?
 
-# Header 1
+SWIMM is a mentoring program that aims to reduce the gender gap in mathematics. Undergraduates interested in math and computational science are paired with graduate student mentors from math, statistics, and ICME. We also host events, including study halls, dinners, and talks.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Meet Our Past Participants and Mentors
 
-## Header 2
+> "I have found SWIMM to be helpful! The graduate students went through similar classes and experiences in the past few years and they have perspective that undergraduates do not."
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+> "I've had a wonderful time being a part of SWIMM. It's easy to have some male friends in the math department, but if not for this group, I would have missed out on getting to know a lot of women in math. It's better to have both!"
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> "It is nice to have a member of the math community reach out to you, rather than the other way around. I think it is a great program!"
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> "I think my self-confidence increased through the mentoring program. The interaction with the undergraduates lets me look back to when I was an undergraduate myself and it makes me realize how much I have mathematically grown since then. This feeling makes me much more confident and optimistic concerning a future career in academia in math."
 
-#### Header 4
+> "This program has definitely helped me meet PhD students in the math department (I'm in ICME). I had never met a single Stanford Math PhD student before joining SWIMM, and now I know at least five of them by name."
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> "At one of the program-wide dinners some of us expressed the impression that Stanford seems to have a lot of women in Math (undergrad and grad) and we were surprised to learn the actual percentages were much lower than we thought. This somehow made me feel like SWIMM has created a community where we see a lot of women and feel their presence in Math, which is great!"
 
-##### Header 5
+> "My impression of mathematics at Stanford is still that it's very male-dominated. However, being part of SWIMM showed me that there is nevertheless a place in the field for women of color like me."
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+> "Taking the 60 series deterred me from math at Stanford, but listening to people in SWIMM talk about their experiences with the math department + how they persevered through helped me be confident about my decision to be a math major."
 
-###### Header 6
+> "I have found SWIMM an amazing program and a great way to both get to know graduate students in the math department as well as a way to meet and connect with fellow female undergraduates interested in math, many of whom I did not previously have a chance to interact with. It's been really wonderful!"
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+> "Talking with my mentor has made math grad school seem less scary. She is very approachable and often experiences the same struggles that I do, while still kicking ass."
 
-### There's a horizontal rule below this.
+> "It was great to meet someone doing their PhD in a field related to math and think that maybe I would like to do something similar in the future. It's been really helpful to feel less alone and also to share experiences."
 
-* * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
