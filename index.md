@@ -11,7 +11,11 @@ layout: default
 SWIMM is a mentoring program that aims to reduce the gender gap in mathematics. Undergraduates interested in math and computational science are paired with graduate student mentors from math, statistics, and ICME. We also host events, including study halls, dinners, and talks.
 
 # Join SWIMM This Year
-Application for 2024-2025 Academic Year will be open soon! We always welcome more people to the community events. Applications from those of all genders, identities, and backgrounds are welcome.
+<mark>
+  Application for 2024-2025 Academic Year will be open soon!
+</mark> 
+
+We always welcome more people to the community events. Applications from those of all genders, identities, and backgrounds are welcome.
 
 # Meet Our Participants and Mentors of Previous Years
 
