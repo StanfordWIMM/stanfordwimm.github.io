@@ -7,6 +7,17 @@ This list will be updated during week 3 of fall 2024.
 # Past Mentors
 See our past mentors [here](https://swimm.stanford.edu/mentors3.html).
 # Swimm Board of the Year 2024-2025
+
+
+**Undergrads**
+
+Luisa Maria Boateng 
+
+Juli Huang 
+
+Lisa Liu 
+
+
 **Grad students**
 
 Talia Blum
@@ -21,11 +32,3 @@ Eha Srivastava
 
 Yujie Wu
 
-
-**Undergrads**
-
-Luisa Maria Boateng 
-
-Juli Huang 
-
-Lisa Liu 
