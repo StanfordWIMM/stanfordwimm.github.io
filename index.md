@@ -12,8 +12,10 @@ SWIMM is a mentoring program that aims to reduce the gender gap in mathematics. 
 
 # Join SWIMM This Year
 <mark>
-  Application for 2024-2025 Academic Year will be open soon!
+  Application for 2024-2025 academic year is now open!
 </mark> 
+
+Apply [here](https://forms.gle/RCSjcxhVGRtGyHsDA).
 
 We always welcome more people to the community events. Applications from those of all genders, identities, and backgrounds are welcome.
 
