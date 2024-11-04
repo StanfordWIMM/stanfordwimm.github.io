@@ -14,7 +14,10 @@ SWIMM is a mentoring program that aims to reduce the gender gap in mathematics. 
 
 Applications from those of all genders, identities, and backgrounds are welcome.
 
-Application for 2024-2025 academic year is now closed. Join us in our community events posted [here](https://stanfordwimm.github.io/events.html).
+Application for 2024-2025 academic year is now closed. 
+
+<mark>Join us in our community events</mark> 
+posted [here](https://stanfordwimm.github.io/events.html).
 
 [comment]: < Apply [here](https://forms.gle/RCSjcxhVGRtGyHsDA) to be a mentee.>
 [comment]: <Apply [here](https://forms.gle/gcr1Pfz6PLJoQtgFA) to be a mentor.>
