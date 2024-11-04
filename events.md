@@ -16,6 +16,7 @@ Unless a date is specified below, the schedule is a estimated time range, and we
   - **SWIMM Dish Hiking.**
     > Sunday, November 10th, 9:45am gathering for hiking. At noon, meet at Lake Lagunita fire pit for snacks.
   - With boba, coffee and snacks after the hike.
+  - <img src="./assets/img/24fallDishHike.png" width="500"/>
     
 - Week 8 to 9:
   - A **Game Night** is around the corner. Stay tuned and we will update soon!
