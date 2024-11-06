@@ -3,7 +3,55 @@ layout: default
 ---
 
 # List of Mentors for the Year 2024-2025
-This list will be updated during week 3 of fall 2024.
+
+Alexandra Stavrianidi
+
+Anna Lyubarskaja
+
+Anqi Li
+
+Catherine Chen
+
+Cesar Lema
+
+Eha Srivastava
+
+Emi Zegar
+
+Ginnie Ma
+
+Hikari Iwasaki
+
+Jingxin Yang
+
+
+Jiyun Park
+
+Maya Chande
+
+Maya Sankar
+
+Emily Dickey
+
+Sarah Zhao
+
+Senem Isik
+
+Talia Blum
+
+Wanqiao Xu
+
+Ya-Chi Chu
+
+Yuewei Ling
+
+Yujie Wu
+
+
+
+
+
+
 # Past Mentors
 See our past mentors [here](https://swimm.stanford.edu/mentors3.html).
 # Swimm Board of the Year 2024-2025
