@@ -24,7 +24,11 @@ A program wide event that has happened already is in italic. Events that's happe
   - Poster credit to Luisa Maria Boateng.
     
 - Week 9:
-  - A **Game Night** is around the corner. Stay tuned and we will update soon!
+  - SWIMM **Game Night** is around the corner!
+    > Thursday, November 21st, 6:30-9:30pm, at the 4th floor lounge area in the math department.
+  - With snacks and non-alcoholic drinks.
+  - <img src="./assets/img/SWIMMGameNight.png" width="500"/>
+  - Poster credit to Luisa Maria Boateng.
 
 
 
