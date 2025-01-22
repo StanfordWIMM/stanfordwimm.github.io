@@ -10,7 +10,7 @@ A program wide event that has happened already is in italic. Events that's happe
 
 ## Winter 2024
 - Week 3:
-  - Movie night. Just chill into the new quarter.
+  - **Movie night**. Just chill into the new quarter.
     > Saturday, Januarary 25th, 6:00pm, at 384H in the math department.
   - With pizza, snacks and non-alcoholic drinks.
   - <img src="./assets/img/swimm-movienight.png" width="500"/>
