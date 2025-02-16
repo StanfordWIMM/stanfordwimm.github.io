@@ -15,12 +15,15 @@ A program wide event that has happened already is in italic. Events that's happe
   - With pizza, snacks and non-alcoholic drinks.
   - <img src="./assets/img/swimm-movienight.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
+- Week 6:
+  - **Math Morning** with coffee, snacks, games and chats!
+    > Sunday, February 16th, 10am-1pm, at math department forth floor lounge.
 - Week 5-7:
-  - **Small Group Meals**
-  - Our Meal Czar will send out emails to organize small group meals.
+  - **Meal with Your Mentor/Mentee**
+  - Go to a meal with your mentor/mentee supported by SWIMM in this midterm period.
 - Week 8:
   - Program-wide dinner.
-- Bonus Event TBD:
+- Bonus Event:
   - Graduate School Panel. 
 
 # Past Events
