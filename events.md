@@ -19,6 +19,7 @@ A program wide event that has happened already is in italic. Events that's happe
   - **Math Morning** with coffee, snacks, games and chats!
     > Sunday, February 16th, 10am-1pm, at math department fourth floor lounge.
   - <img src="./assets/img/2025spring-mathmorning.png" width="500"/>
+  - Poster credit to Luisa Maria Boateng.
 - Week 5-7:
   - **Meal with Your Mentor/Mentee**
   - Go to a meal with your mentor/mentee supported by SWIMM in this midterm period.
