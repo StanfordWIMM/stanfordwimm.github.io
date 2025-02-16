@@ -11,13 +11,14 @@ A program wide event that has happened already is in italic. Events that's happe
 ## Winter 2024
 - Week 3:
   - _Movie night_. Just chill into the new quarter.
-    > Saturday, Januarary 25th, 6:00pm, at 384H in the math department.
+    > Saturday, January 25th, 6:00pm, at 384H in the math department.
   - With pizza, snacks and non-alcoholic drinks.
   - <img src="./assets/img/swimm-movienight.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
 - Week 6:
   - **Math Morning** with coffee, snacks, games and chats!
-    > Sunday, February 16th, 10am-1pm, at math department forth floor lounge.
+    > Sunday, February 16th, 10am-1pm, at math department fourth floor lounge.
+  - <img src="./assets/img/2025spring-mathmorning.png" width="500"/>
 - Week 5-7:
   - **Meal with Your Mentor/Mentee**
   - Go to a meal with your mentor/mentee supported by SWIMM in this midterm period.
