@@ -3,7 +3,13 @@ layout: default
 ---
 
 # Upcoming
+## Spring 2024
+- Week 2 onwards:
+  - **Mentor-Mentee Meals**
+  - Go to a meal with your mentor/mentee in this beautiful weather!
+- We will have program-wide dinner and many more fun events!
 
+# Past Events
 Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
 
 A program wide event that has happened already is in italic. Events that's happening now or soon are in bold.
@@ -16,19 +22,19 @@ A program wide event that has happened already is in italic. Events that's happe
   - <img src="./assets/img/swimm-movienight.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
 - Week 6:
-  - **Math Morning** with coffee, snacks, games and chats!
+  - _Math Morning_ with coffee, snacks, games and chats!
     > Sunday, February 16th, 10am-1pm, at math department fourth floor lounge.
   - <img src="./assets/img/2025spring-mathmorning.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
 - Week 5-7:
-  - **Meal with Your Mentor/Mentee**
+  - _Meal with Your Mentor/Mentee_
   - Go to a meal with your mentor/mentee supported by SWIMM in this midterm period.
 - Week 8:
   - Program-wide dinner.
 - Bonus Event:
   - Graduate School Panel. 
 
-# Past Events
+
 
 ## Fall 2024
 - Week 4 to 6:
