@@ -7,6 +7,15 @@ layout: default
 - Week 2 onwards:
   - **Mentor-Mentee Meals**
   - Go to a meal with your mentor/mentee in this beautiful weather!
+- Week 3
+  - _SWIMM Dish Hiking._
+    > Saturday, April 19, 6pm gathering for hiking. At around 7:30pm, meet at Lake Lagunita fire pit for snacks.
+  - With boba and snacks after the hike.
+  - <img src="./assets/img/24fallDishHike.png" width="500"/>
+  - Poster credit to Luisa Maria Boateng.
+- Week 4
+  - **Stanford Admit Weekend**
+  - Come visit us at the the table joined with [SUMO](https://sumo.stanford.edu).
 - We will have program-wide dinner and many more fun events!
 
 # Past Events
