@@ -34,6 +34,9 @@ We always welcome more people to the community events.
 > "I've had a wonderful time being a part of SWIMM. It's easy to have some male friends in the math department, but if not for this group, I would have missed out on getting to know a lot of women in math. It's better to have both!"
 
 
+<img src="./assets/img/2425FallDishHike.JPG" width="500"/>
+
+
 > "It is nice to have a member of the math community reach out to you, rather than the other way around. I think it is a great program!"
 
 <img src="./assets/img/smores_event.jpg" width="500"/>
