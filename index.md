@@ -39,7 +39,8 @@ We always welcome more people to the community events.
 
 > "It is nice to have a member of the math community reach out to you, rather than the other way around. I think it is a great program!"
 
-<img src="./assets/img/smores_event.jpg" width="500"/>
+
+<img src="./assets/img/2425GameNight.JPG" width="500"/>
 
 > "I think my self-confidence increased through the mentoring program. The interaction with the undergraduates lets me look back to when I was an undergraduate myself and it makes me realize how much I have mathematically grown since then. This feeling makes me much more confident and optimistic concerning a future career in academia in math."
 
@@ -48,6 +49,8 @@ We always welcome more people to the community events.
 <img src="./assets/img/imgzoom.jpg" width="500"/>
 
 > "At one of the program-wide dinners some of us expressed the impression that Stanford seems to have a lot of women in Math (undergrad and grad) and we were surprised to learn the actual percentages were much lower than we thought. This somehow made me feel like SWIMM has created a community where we see a lot of women and feel their presence in Math, which is great!"
+
+<img src="./assets/img/smores_event.jpg" width="500"/>
 
 > "My impression of mathematics at Stanford is still that it's very male-dominated. However, being part of SWIMM showed me that there is nevertheless a place in the field for women of color like me."
 
