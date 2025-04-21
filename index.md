@@ -26,7 +26,7 @@ We always welcome more people to the community events.
 
 # Meet Our Participants and Mentors of Previous Years
 
-<img src="./assets/img/swimmfoto.jpg" width="500"/>
+<img src="./assets/img/2425WinterDinner.jpg" width="500"/>
 
 > "I have found SWIMM to be helpful! The graduate students went through similar classes and experiences in the past few years and they have perspective that undergraduates do not."
 
@@ -53,6 +53,8 @@ We always welcome more people to the community events.
 <img src="./assets/img/IMG_20181018_dinner.jpg" width="500"/>
 
 > "I have found SWIMM an amazing program and a great way to both get to know graduate students in the math department as well as a way to meet and connect with fellow female undergraduates interested in math, many of whom I did not previously have a chance to interact with. It's been really wonderful!"
+
+<img src="./assets/img/swimmfoto.jpg" width="500"/>
 
 > "Talking with my mentor has made math grad school seem less scary. She is very approachable and often experiences the same struggles that I do, while still kicking ass."
 
