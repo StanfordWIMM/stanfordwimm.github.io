@@ -17,6 +17,7 @@ layout: default
   - **Stanford Admit Weekend**
   - Come visit us at the the table joined with [SUMO](https://sumo.stanford.edu).
   - <img src="./assets/img/25AdmitWeekendSWIMM.png" width="500"/>
+  - Poster credit to Luisa Maria Boateng.
 - We will have program-wide dinner and many more fun events!
 
 # Past Events
