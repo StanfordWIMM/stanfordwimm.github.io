@@ -11,7 +11,7 @@ layout: default
   - _SWIMM Dish Hiking._
     > Saturday, April 19, 6pm gathering for hiking. At around 7:30pm, meet at Lake Lagunita fire pit for snacks.
   - With boba and snacks after the hike.
-  - <img src="./assets/img/24fallDishHike.png" width="500"/>
+  - <img src="./assets/img/SunsetSwimmHike.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
 - Week 4
   - **Stanford Admit Weekend**
