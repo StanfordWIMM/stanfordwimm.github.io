@@ -26,7 +26,7 @@ We always welcome more people to the community events.
 
 # Meet Our Participants and Mentors of Previous Years
 
-<img src="./assets/img/2425WinterDinner.jpg" width="500"/>
+<img src="./assets/img/2425WinterDinner.JPG" width="500"/>
 
 > "I have found SWIMM to be helpful! The graduate students went through similar classes and experiences in the past few years and they have perspective that undergraduates do not."
 
