@@ -24,7 +24,6 @@ Hikari Iwasaki
 
 Jingxin Yang
 
-
 Jiyun Park
 
 Maya Chande
@@ -48,12 +47,39 @@ Yuewei Ling
 Yujie Wu
 
 
-
-
-
-
 # Past Mentors
 See our past mentors [here](https://swimm.stanford.edu/mentors3.html).
+
+
+# Swimm Board of the Year 2025-2026
+
+**Undergrads**
+
+Juli Huang
+
+Alexandra Suriya Kim
+
+Sophia Wei
+
+Olivia Xu
+
+**Grad students**
+
+Talia Blum
+
+Maya Ester Gusak
+
+Hamin Jung
+
+Anqi Li
+
+Jiyun Park
+
+Qianhe Qin
+
+Eha Srivastava 
+
+
 # Swimm Board of the Year 2024-2025
 
 
