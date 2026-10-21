@@ -3,6 +3,15 @@ layout: default
 ---
 
 # Upcoming
+## Fall 2026
+- Every week: Friday SWIMM Study Hall in 381-U!
+  - Join us from 12pm to 4pm every Friday to eat snacks, talk to fellow SWIMM mentors and mentees, and study!
+
+# Past Events
+Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
+
+A program wide event that has happened already is in italic. Events that's happening now or soon are in bold.
+
 ## Fall 2025
 - Week 5:
   - **SWIMM Game Night**
@@ -10,11 +19,6 @@ layout: default
   - with prizes, trivia, food and drinks, plus a lot of fun!
   - <img src="./assets/img/2526GameNight.png" width="500"/>
   - Poster credit to Maya Ester Gusak.
-
-# Past Events
-Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
-
-A program wide event that has happened already is in italic. Events that's happening now or soon are in bold.
 
 ## Spring 2024
 - Week 2 onwards:
