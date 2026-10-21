@@ -2,50 +2,27 @@
 layout: default
 ---
 
-# List of Mentors for the Year 2024-2025
+# Swimm Board of the Year 2026-2027
 
-Alexandra Stavrianidi
+**Undergrads**
 
-Anna Lyubarskaja
+Ana Lucia Elices
 
-Anqi Li
+Sophia Wei
 
-Catherine Chen
+Olivia Xu
 
-Cesar Lema
+Phoebe Xu
 
-Eha Srivastava
+**Grad students**
 
-Emi Zegar
+Maya Ester Gusak
 
-Ginnie Ma
-
-Hikari Iwasaki
-
-Jingxin Yang
+Hamin Jung
 
 Jiyun Park
 
-Maya Chande
-
-Maya Sankar
-
-Emily Dickey
-
-Sarah Zhao
-
-Senem Isik
-
-Talia Blum
-
-Wanqiao Xu
-
-Ya-Chi Chu
-
-Yuewei Ling
-
-Yujie Wu
-
+Eha Srivastava 
 
 # Past Mentors
 See our past mentors [here](https://swimm.stanford.edu/mentors3.html).
@@ -105,4 +82,50 @@ Maya Sankar
 Eha Srivastava 
 
 Yujie Wu
+
+# List of Mentors for the Year 2024-2025
+
+Alexandra Stavrianidi
+
+Anna Lyubarskaja
+
+Anqi Li
+
+Catherine Chen
+
+Cesar Lema
+
+Eha Srivastava
+
+Emi Zegar
+
+Ginnie Ma
+
+Hikari Iwasaki
+
+Jingxin Yang
+
+Jiyun Park
+
+Maya Chande
+
+Maya Sankar
+
+Emily Dickey
+
+Sarah Zhao
+
+Senem Isik
+
+Talia Blum
+
+Wanqiao Xu
+
+Ya-Chi Chu
+
+Yuewei Ling
+
+Yujie Wu
+
+
 
